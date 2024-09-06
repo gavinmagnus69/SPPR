@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\shared\\_layout1.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\shared\\_layout1.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -38,11 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\_ViewStart.cshtml",
@@ -50,8 +54,7 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T19:51:53.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:51:53.978Z"
             },
             {
               "$type": "Document",
@@ -61,14 +64,14 @@
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml*",
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T19:49:16.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "_Layout1.cshtml.css",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout1.cshtml.css",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout1.cshtml.css",
@@ -80,10 +83,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "site.css",
@@ -93,12 +92,11 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T19:15:06.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:15:06.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout1.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout1.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout1.cshtml",
@@ -111,13 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T18:31:52.628Z",
               "EditorCaption": ""
@@ -132,8 +130,7 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T17:27:27.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T17:27:27.923Z"
             }
           ]
         }
