@@ -1,36 +1,29 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace WEB_253502_AKHMETOV.UI.Controllers
 {
-    public class HomeController : Controller
+    public class ProductController : Controller
     {
-        //GET: HomeController
-
-        [ViewData]
-        public string Name { get; set; } = "LAB 228";
+        // GET: ProductController
         public ActionResult Index()
         {
-
-            var l = new SelectList();
             return View();
         }
 
-       
-        // GET: HomeController/Details/5
+        // GET: ProductController/Details/5
         public ActionResult Details(int id)
         {
             return View();
         }
 
-        // GET: HomeController/Create
+        // GET: ProductController/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: HomeController/Create
+        // POST: ProductController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(IFormCollection collection)
@@ -45,13 +38,13 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
             }
         }
 
-        // GET: HomeController/Edit/5
+        // GET: ProductController/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: HomeController/Edit/5
+        // POST: ProductController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -66,13 +59,13 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
             }
         }
 
-        // GET: HomeController/Delete/5
+        // GET: ProductController/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: HomeController/Delete/5
+        // POST: ProductController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)

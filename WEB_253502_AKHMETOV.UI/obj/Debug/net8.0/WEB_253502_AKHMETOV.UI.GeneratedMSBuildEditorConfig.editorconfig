@@ -18,8 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/Error.cshtml]
