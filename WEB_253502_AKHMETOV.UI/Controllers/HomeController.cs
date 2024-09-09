@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using WEB_253502_AKHMETOV.UI.Models;
 
 namespace WEB_253502_AKHMETOV.UI.Controllers
 {
@@ -9,12 +10,20 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
         //GET: HomeController
 
         [ViewData]
-        public string Name { get; set; } = "LAB 228";
+        public string Name { get; set; } = "LAB 2";
+
         public ActionResult Index()
         {
+            var elements = new List<ListDemo> { 
+                new ListDemo(1, "Uno"),
+                new ListDemo(2, "Dos"),
+                new ListDemo(3, "Tres"),
+                new ListDemo(4, "Quatro"),
+            };
 
-            var l = new SelectList();
-            return View();
+            var list = new SelectList(elements, nameof(ListDemo.Id), nameof(ListDemo.Name));
+            //var l = new SelectList();
+            return View(list);
         }
 
        

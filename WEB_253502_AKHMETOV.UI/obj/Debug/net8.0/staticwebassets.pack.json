@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WEB_253502_AKHMETOV.UI.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WEB_253502_AKHMETOV.UI.bundle.scp.css"
-    },
-    {
       "Id": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

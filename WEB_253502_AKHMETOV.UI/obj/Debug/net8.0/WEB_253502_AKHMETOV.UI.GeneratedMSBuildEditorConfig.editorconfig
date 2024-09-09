@@ -34,12 +34,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/Components/CartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFN1bW1hcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/_UserInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VySW5mb1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
@@ -53,7 +65,3 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[D:/roman/projects/WEB_253502_AKHMETOV.UI/WEB_253502_AKHMETOV.UI/Views/Shared/_Layout1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = b-9209xqv2y3

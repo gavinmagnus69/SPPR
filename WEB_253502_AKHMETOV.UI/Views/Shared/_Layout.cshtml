@@ -14,44 +14,11 @@
         <div class="container">
             <!-- Панель навигации -->
            <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-<!-- меню сайта -->
-                <a asp-action="Index" asp-controller="Home">LAB2Akhmetov</a>
-                <div class="navbar-nav">
-                    <a asp-action="Index" asp-controller="Home">Лб 1</a>
-                    <a asp-action="Index" asp-controller="Cart">Каталог</a>
-                    <a class="nav-item nav-link" href="#">Администрирование</a>
-                </div>
-<!-- меню сайта - конец -->
-<!-- Информация пользователя -->
-                <a href="#" class="navbar-text ms-auto">
-                00,0 руб <i class="fa-solid fa-cart-shopping"></i> (0)
-                </a>
-                <div class="dropdown ms-4 nav-color">
-                    <button class="btn btn-secondary dropdown-toggle"
-                        type="button" id="dropdownMenuButton"
-                        data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                            User@gmail.com
-                            <img src="images/default-profile-picture.png" width="30"
-                                alt="User" class="rounded nav-color" />
-                    </button>
-                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <li>
-                            <span class="dropdown-item-text">
-                                <img src="images/default-profile-picture.png"
-                                width="50" alt="User" class="rounded" />
-                                user@gmail.com
-                            </span>
-                        </li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li>
-                            <form id="logoutForm" class="form-inline">
-                                <button asp-action="LogOut" asp-controller="Account" id="logout" type="submit" class="nav-link
-                                btn btn-link text-dark">Logout</button>
-                            </form>
-                        </li>
-                    </ul>
-                </div>
+                
+                <partial name="_MenuPartial"/>
+
+                <partial name="_UserInfoPartial" />
+               
 <!-- Информация пользователя - конец -->
             </nav> 
            
@@ -59,23 +26,19 @@
           
             <!-- container - конец -->
     </header><!-- header - конец -->
+
+
+
+
     <main>
        @RenderBody();
     </main>
+
+
+
+
     <footer>
-        <div class="navbar navbar-dark navbar-expand-md bg-dark fixed-bottom">
-            <div class="navbar-nav ms-auto">
-                <a class="nav-item nav-link" href="http://www.facebook.com">
-                    <i class="fa-brands fa-facebook-f fa-2x"></i>
-                </a>
-                <a class="nav-item nav-link" href="http://www.vk.com">
-                    <i class="fa-brands fa-vk fa-2x"></i>
-                </a>
-                <a class="nav-item nav-link" href="http://www.twitter.com">
-                    <i class="fa-brands fa-twitter fa-2x"></i>
-                </a>
-            </div>
-        </div>
+        @RenderSection("Footer", required: false)
     </footer>
   
  

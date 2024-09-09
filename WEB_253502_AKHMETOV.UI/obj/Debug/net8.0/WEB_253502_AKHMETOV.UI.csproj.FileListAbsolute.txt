@@ -22,11 +22,9 @@ D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WEB_253502_AKHMETOV.UI.props
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\staticwebassets.pack.json
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\scopedcss\bundle\WEB_253502_AKHMETOV.UI.styles.css
-D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\scopedcss\projectbundle\WEB_253502_AKHMETOV.UI.bundle.scp.css
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\WEB_253502_AKHMETOV.UI.dll
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\refint\WEB_253502_AKHMETOV.UI.dll
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\WEB_253502_AKHMETOV.UI.pdb
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\WEB_253502_AKHMETOV.UI.genruntimeconfig.cache
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\ref\WEB_253502_AKHMETOV.UI.dll
-D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
 D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.UI\obj\Debug\net8.0\WEB_253502_AKHMETOV.UI.sourcelink.json

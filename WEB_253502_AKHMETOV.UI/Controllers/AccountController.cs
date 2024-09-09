@@ -8,12 +8,12 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
         // GET: AccountController
         public ActionResult Index()
         {
-            return RedirectToAction("Index", "Product");
+            return View();
         }
 
         public ActionResult LogOut()
         {
-            return RedirectToAction("Index", "Product");
+            return RedirectToAction("Index", "Home");
         }
 
         // GET: AccountController/Details/5
