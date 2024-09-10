@@ -1,7 +1,13 @@
+using WEB_253502_AKHMETOV.UI.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.RegisterCustomServices();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
 
 var app = builder.Build();
 

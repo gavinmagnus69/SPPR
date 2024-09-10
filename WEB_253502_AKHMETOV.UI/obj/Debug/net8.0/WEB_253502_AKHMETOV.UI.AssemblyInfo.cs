@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEB_253502_AKHMETOV.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd70a22a92b68cef8c1aec8a16f067687eda7fed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd252899a99ee5322fc65615d5604d90f53594c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEB_253502_AKHMETOV.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WEB_253502_AKHMETOV.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WEB_253502_AKHMETOV.Domain.Entities
 {
-    internal class Dish
+    public class Dish
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -15,6 +15,8 @@ namespace WEB_253502_AKHMETOV.Domain.Entities
         public int CategoryId { get; set; }
 
         public string Image { get; set; }
+
+        public string ImageExtension { get; set; } 
 
         public int Calories { get; set; }
     }

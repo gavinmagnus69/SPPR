@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\services\\categoryservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\services\\categoryservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\services\\categoryservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\services\\categoryservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\web_253502_akhmetov.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\web_253502_akhmetov.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\web_253502_akhmetov.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,32 +79,8 @@
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\web_253502_akhmetov.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.domain\\web_253502_akhmetov.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{050B9410-2E33-4188-9075-103DEE12F4E1}|WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj|solutionrelative:web_253502_akhmetov.domain\\web_253502_akhmetov.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -87,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|d:\\roman\\projects\\web_253502_akhmetov.ui\\web_253502_akhmetov.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BEEC5EB5-F8C0-4C32-9E58-9E61D53C4CC4}|WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj|solutionrelative:web_253502_akhmetov.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -110,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,97 +146,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
+              "DocumentIndex": 0,
+              "Title": "MemoryProductService.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryProductService.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryProductService.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryProductService.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:54:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\IProductService.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\IProductService.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\IProductService.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:33:16.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoryCategoryService.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:58:20.552Z",
+              "WhenOpened": "2024-09-10T21:00:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Services\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:59:31.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Extensions\\HostingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:53:16.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ListModel.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Models\\ListModel.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.Domain\\Models\\ListModel.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Models\\ListModel.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.Domain\\Models\\ListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:51:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Models\\ResponseData.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.Domain\\Models\\ResponseData.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Models\\ResponseData.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.Domain\\Models\\ResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:28:01.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Dish.cs",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Entities\\Dish.cs",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.Domain\\Entities\\Dish.cs",
               "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Entities\\Dish.cs",
               "RelativeToolTip": "WEB_253502_AKHMETOV.Domain\\Entities\\Dish.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T21:18:58.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T20:55:35.479Z",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:23:39.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Program.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Program.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:04:38.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_MenuPartial.cshtml",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T20:02:45.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\_ViewImports.cshtml",
               "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-09T19:26:16.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T11:55:12.927Z",
+              "DocumentIndex": 10,
+              "Title": "WEB_253502_AKHMETOV.UI.csproj",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T21:15:36.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListDemo.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T10:08:00.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Home\\Index.cshtml",
@@ -221,151 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_UserInfoPartial.cshtml",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T20:36:11.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T21:23:39.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WEB_253502_AKHMETOV.UI.csproj",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-09T21:15:36.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\appsettings.json",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\appsettings.json",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-09T21:24:43.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WEB_253502_AKHMETOV.Domain.csproj",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-09T21:25:00.773Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Program.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Program.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Program.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:04:38.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CartSummary.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T20:52:09.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T12:10:44.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T19:49:16.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:07:22.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:07:06.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T12:10:50.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Controllers\\ProductController.cs",
@@ -373,11 +323,194 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:06:31.807Z"
+              "WhenOpened": "2024-09-06T12:06:31.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListDemo.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Models\\ListDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:08:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:55:12.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WEB_253502_AKHMETOV.Domain.csproj",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj*",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T21:25:00.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T20:02:45.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T20:55:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:58:20.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T20:36:11.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\appsettings.json",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\appsettings.json",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T21:24:43.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartSummary.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Components\\CartSummary\\CartSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:52:09.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T12:10:44.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T19:49:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:07:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:07:06.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T12:10:50.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\_ViewStart.cshtml",
@@ -385,11 +518,12 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T19:51:53.978Z"
+              "WhenOpened": "2024-09-05T19:51:53.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -397,11 +531,12 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T13:26:46.611Z"
+              "WhenOpened": "2024-09-06T13:26:46.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Error.cshtml",
@@ -409,11 +544,12 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T13:26:46.434Z"
+              "WhenOpened": "2024-09-06T13:26:46.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "WEB_253502_AKHMETOV.UI\\Views\\Product\\Index.cshtml",
@@ -421,7 +557,8 @@
               "RelativeToolTip": "WEB_253502_AKHMETOV.UI\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T12:11:00.408Z"
+              "WhenOpened": "2024-09-06T12:11:00.408Z",
+              "EditorCaption": ""
             }
           ]
         }
