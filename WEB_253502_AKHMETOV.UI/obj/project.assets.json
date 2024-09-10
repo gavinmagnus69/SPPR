@@ -8,6 +8,16 @@
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
+      },
+      "WEB_253502_AKHMETOV.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WEB_253502_AKHMETOV.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WEB_253502_AKHMETOV.Domain.dll": {}
+        }
       }
     }
   },
@@ -91,11 +101,17 @@
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
       ]
+    },
+    "WEB_253502_AKHMETOV.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WEB_253502_AKHMETOV.Domain/WEB_253502_AKHMETOV.Domain.csproj",
+      "msbuildProject": "../WEB_253502_AKHMETOV.Domain/WEB_253502_AKHMETOV.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0",
+      "WEB_253502_AKHMETOV.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -130,7 +146,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj": {
+              "projectPath": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.Domain\\WEB_253502_AKHMETOV.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

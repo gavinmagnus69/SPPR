@@ -11,7 +11,9 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
 
         [ViewData]
         public string Name { get; set; } = "LAB 2";
-
+        
+        public string listName { get; set; }
+        public SelectList list { get; set; }
         public ActionResult Index()
         {
             var elements = new List<ListDemo> { 
@@ -21,9 +23,10 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
                 new ListDemo(4, "Quatro"),
             };
 
-            var list = new SelectList(elements, nameof(ListDemo.Id), nameof(ListDemo.Name));
+            this.list = new SelectList(elements, nameof(ListDemo.Id), nameof(ListDemo.Name));
             //var l = new SelectList();
-            return View(list);
+            ViewBag.list = this.list;
+            return View();
         }
 
        

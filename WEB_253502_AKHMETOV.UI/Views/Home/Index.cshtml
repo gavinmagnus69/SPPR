@@ -14,16 +14,24 @@
             <li>Элемент списка 4</li>
         </ol>
 
+    
+
         <hr />
 
         <h1><b>Форма</b></h1>
 
         <form
-            action="/index"
+            asp-controller="Home"
+            asp-action="Index"
             method="post" 
             style="margin: 0 0 10px 0">
-       
-            <div class="row mb-3">
+
+            <select asp-items="ViewBag.list">
+                <option disabled="disabled"
+                        selected="selected"
+                        value="id">Выберите </option>
+            </select>
+        <div class="row mb-3">
                 <div class="col-sm-10 offset-sm-2">
                     <div class="form-check">
                         <input class="form-check-input" type="checkbox" name="checkbox1">

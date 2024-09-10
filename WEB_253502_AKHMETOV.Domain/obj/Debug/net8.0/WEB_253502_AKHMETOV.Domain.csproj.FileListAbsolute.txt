@@ -1,0 +1,12 @@
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\bin\Debug\net8.0\WEB_253502_AKHMETOV.Domain.deps.json
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\bin\Debug\net8.0\WEB_253502_AKHMETOV.Domain.dll
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\bin\Debug\net8.0\WEB_253502_AKHMETOV.Domain.pdb
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\WEB_253502_AKHMETOV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\WEB_253502_AKHMETOV.Domain.AssemblyInfoInputs.cache
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\WEB_253502_AKHMETOV.Domain.AssemblyInfo.cs
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\WEB_253502_AKHMETOV.Domain.csproj.CoreCompileInputs.cache
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\WEB_253502_AKHMETOV.Domain.sourcelink.json
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\WEB_253502_AKHMETOV.Domain.dll
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\refint\WEB_253502_AKHMETOV.Domain.dll
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\WEB_253502_AKHMETOV.Domain.pdb
+D:\roman\projects\WEB_253502_AKHMETOV.UI\WEB_253502_AKHMETOV.Domain\obj\Debug\net8.0\ref\WEB_253502_AKHMETOV.Domain.dll
