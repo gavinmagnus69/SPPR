@@ -4,6 +4,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.RegisterCustomServices();
 
+
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

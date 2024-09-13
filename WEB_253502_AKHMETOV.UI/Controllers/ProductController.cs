@@ -1,15 +1,32 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Runtime.CompilerServices;
+using WEB_253502_AKHMETOV.Domain.Entities;
+using WEB_253502_AKHMETOV.UI.Services.CategoryService;
+using WEB_253502_AKHMETOV.UI.Services.ProductService;
 
 namespace WEB_253502_AKHMETOV.UI.Controllers
 {
     public class ProductController : Controller
     {
-        // GET: ProductController
-        public ActionResult Index()
-        {
-            return View();
+        private readonly IProductService _productService;
+        private readonly ICategoryService _categoryService;
+        public ProductController(IProductService _service, ICategoryService _category) {
+            this._productService = _service;
+            this._categoryService = _category;
         }
+
+        public async Task<IActionResult> Index() {
+            var productResponse = await _productService.GetProductListAsync("soup");
+
+            if (!productResponse.Successfull) { 
+                return NotFound(productResponse.ErrorMessage);
+            }
+
+            return View(productResponse.Data.Items);
+        }
+        // GET: ProductController
+        
 
         // GET: ProductController/Details/5
         public ActionResult Details(int id)

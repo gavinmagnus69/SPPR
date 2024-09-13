@@ -2,11 +2,7 @@
 @{
 }
 
-
-<a asp-controller="Cart" asp-action="Index" class="navbar-text ms-auto">
-    @await Component.InvokeAsync("CartSummary") руб
-    <i class="fa-solid fa-cart-shopping"></i>
-</a>
+    @await Component.InvokeAsync("CartSummary")
 
 <a href="#" class="navbar-text ms-auto">
     00,0 руб <i class="fa-solid fa-cart-shopping"></i> (0)
