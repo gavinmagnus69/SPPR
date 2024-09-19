@@ -56,7 +56,16 @@ namespace WEB_253502_AKHMETOV.UI.Services.ProductService
 
         public Task<ResponseData<ListModel<Dish>>> GetProductListAsync(string? categoryNormalizedName, int pageNo = 1)
         {
-            throw new NotImplementedException();
+            //var list = new List<Dish>();
+            var items = _dishes.FindAll(c => c.Category.NormalizedName.Equals(categoryNormalizedName));
+           
+            var model = new ListModel<Dish> { Items = items };
+            ResponseData<ListModel<Dish>> response = ResponseData<ListModel<Dish>>.Success(model);
+
+            if (!response.Successfull)
+                return null;
+
+            return Task.FromResult(response);
         }
 
         public Task UpdateProductAsync(int id, Dish product, IFormFile? formFile)

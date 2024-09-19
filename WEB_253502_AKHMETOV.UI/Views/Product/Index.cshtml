@@ -1,4 +1,27 @@
-﻿
+﻿@model List<Dish>
 
-<h1>Product page</h1>
+@{
+    ViewData["Title"] = "Products";
+}
 
+<div class="row" style="min-height: 550px">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-sm-4">
+                <div class="card">
+                    <div class="card-body">
+                        <div style="display:flex; justify-content: center">
+                            <img src="@(item.Image)" style="max-height: 230px; max-width: 350px" alt="No data" />
+                        </div>
+                        <h5 class="card-title">@(item.Name)</h5>
+                        <p class="card-text">@(item.Description)</p>
+                        <div style="display:flex; justify-content: center">
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>

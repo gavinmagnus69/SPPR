@@ -11,6 +11,7 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
     {
         private readonly IProductService _productService;
         private readonly ICategoryService _categoryService;
+
         public ProductController(IProductService _service, ICategoryService _category) {
             this._productService = _service;
             this._categoryService = _category;
@@ -19,11 +20,12 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
         public async Task<IActionResult> Index() {
             var productResponse = await _productService.GetProductListAsync("soup");
 
-            if (!productResponse.Successfull) { 
-                return NotFound(productResponse.ErrorMessage);
+            if (!productResponse.Successfull || productResponse is null) { 
+                return NotFound("Error");
             }
+            ViewBag.items = productResponse.Data.Items;
 
-            return View(productResponse.Data.Items);
+            return View(new List<Dish>(productResponse.Data.Items));
         }
         // GET: ProductController
         
