@@ -1,6 +1,22 @@
 {
   "Files": [
     {
+      "Id": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\wwwroot\\Images\\cola.jpg",
+      "PackagePath": "staticwebassets\\Images\\cola.jpg"
+    },
+    {
+      "Id": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\wwwroot\\Images\\harcho.jpg",
+      "PackagePath": "staticwebassets\\Images\\harcho.jpg"
+    },
+    {
+      "Id": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\wwwroot\\Images\\ukr.jpg",
+      "PackagePath": "staticwebassets\\Images\\ukr.jpg"
+    },
+    {
+      "Id": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\wwwroot\\Images\\vodka.jpg",
+      "PackagePath": "staticwebassets\\Images\\vodka.jpg"
+    },
+    {
       "Id": "D:\\roman\\projects\\WEB_253502_AKHMETOV.UI\\WEB_253502_AKHMETOV.UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

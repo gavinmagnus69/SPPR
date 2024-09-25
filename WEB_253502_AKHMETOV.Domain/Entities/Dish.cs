@@ -14,9 +14,7 @@ namespace WEB_253502_AKHMETOV.Domain.Entities
 
         public Category Category { get; set; }
 
-        public string Image { get; set; }
-
-        public string ImageExtension { get; set; } 
+        public string? ImagePath { get; set; }
 
         public int Calories { get; set; }
     }

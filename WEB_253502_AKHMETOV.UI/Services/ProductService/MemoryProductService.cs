@@ -1,4 +1,5 @@
-﻿using WEB_253502_AKHMETOV.Domain.Entities;
+﻿using Microsoft.AspNetCore.Mvc;
+using WEB_253502_AKHMETOV.Domain.Entities;
 using WEB_253502_AKHMETOV.Domain.Models;
 using WEB_253502_AKHMETOV.UI.Services.CategoryService;
 
@@ -6,14 +7,15 @@ namespace WEB_253502_AKHMETOV.UI.Services.ProductService
 {
     public class MemoryProductService : IProductService
     {
-
+        private readonly IConfiguration _configuration;
         List<Dish> _dishes;
         List<Category> _categories;
 
 
-        public MemoryProductService(ICategoryService categoryService)
+        public MemoryProductService([FromServices] IConfiguration configuration, ICategoryService categoryService)
         {
-            _categories = categoryService.GetCategoryListAsync().Result.Data;
+            _configuration = configuration;
+            _categories = categoryService.GetCategoryListAsync().Result.Data!;
 
             SetupData();
 
@@ -21,22 +23,32 @@ namespace WEB_253502_AKHMETOV.UI.Services.ProductService
 
         private void SetupData()
         {
-            _dishes = new List<Dish>()
+            this._dishes = new List<Dish>
             {
                 new Dish { Id = 1, Name = "Суп-харчо",
                     Description = "Очень острый, невкусный",
-                    Calories = 200, Image = "Images/Суп.jpg",
+                    Calories = 200,
+                    ImagePath = "Images/harcho.jpg",
                     Category = _categories.Find(c => c.NormalizedName.Equals("soups"))
                 },
                 new Dish { Id = 2, Name = "Борщ",
                     Description = "Много сала, без сметаны",
-                    Calories = 330, Image = "Images/Борщ.jpg",
+                    Calories = 330,
+                    ImagePath = "Images/ukr.jpg",
                     Category = _categories.Find(c => c.NormalizedName.Equals("soups"))
-                }
-
-
-
-
+                },
+                 new Dish { Id = 3, Name = "Vodka",
+                    Description = "holodnaya charachka",
+                    Calories = 228,
+                    ImagePath = "Images/vodka.jpg",
+                    Category = _categories.Find(c => c.NormalizedName.Equals("drinks"))
+                },
+                 new Dish { Id = 4, Name = "Coca-col",
+                    Description = "holodnaya charachka",
+                    Calories = 100,
+                    ImagePath = "Images/cola.jpg",
+                    Category = _categories.Find(c => c.NormalizedName.Equals("drinks"))
+                },
             };
         }
         public Task<ResponseData<Dish>> CreateProductAsync(Dish product, IFormFile? formFile)
@@ -56,16 +68,29 @@ namespace WEB_253502_AKHMETOV.UI.Services.ProductService
 
         public Task<ResponseData<ListModel<Dish>>> GetProductListAsync(string? categoryNormalizedName, int pageNo = 1)
         {
-            //var list = new List<Dish>();
-            var items = _dishes.FindAll(c => c.Category.NormalizedName.Equals(categoryNormalizedName));
+            var itemsPerPage = Convert.ToInt32(_configuration.GetRequiredSection("ItemsPerPage").Value);
+
+            var items = _dishes.Where(p => categoryNormalizedName == null || p.Category.NormalizedName.Equals(categoryNormalizedName)).ToList();
+
+            var itemsCount = items.Count;
+
+            items = items.Skip(itemsPerPage * (pageNo - 1)).Take(itemsPerPage).ToList();
+
+            var totalPages = (int)Math.Floor((double)((categoryNormalizedName == null ? itemsCount : items.Count) / itemsPerPage));
+
+            totalPages += ((categoryNormalizedName == null ? itemsCount : items.Count) % itemsPerPage == 0) ? 0 : 1;
+
+            return Task.FromResult(new ResponseData<ListModel<Dish>>
+            {
+                Data = new ListModel<Dish>
+                {
+                    Items = items,
+                    CurrentPage = pageNo,
+                    TotalPages = totalPages,
+                }
+            });
            
-            var model = new ListModel<Dish> { Items = items };
-            ResponseData<ListModel<Dish>> response = ResponseData<ListModel<Dish>>.Success(model);
-
-            if (!response.Successfull)
-                return null;
-
-            return Task.FromResult(response);
+            
         }
 
         public Task UpdateProductAsync(int id, Dish product, IFormFile? formFile)

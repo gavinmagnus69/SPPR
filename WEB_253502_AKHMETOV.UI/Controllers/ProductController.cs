@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Runtime.CompilerServices;
 using WEB_253502_AKHMETOV.Domain.Entities;
+using WEB_253502_AKHMETOV.Domain.Models;
 using WEB_253502_AKHMETOV.UI.Services.CategoryService;
 using WEB_253502_AKHMETOV.UI.Services.ProductService;
 
@@ -17,15 +18,20 @@ namespace WEB_253502_AKHMETOV.UI.Controllers
             this._categoryService = _category;
         }
 
-        public async Task<IActionResult> Index() {
-            var productResponse = await _productService.GetProductListAsync("soup");
+        public async Task<IActionResult> Index(string? category, int? page) {
+            
+            var productResponse = await _productService.GetProductListAsync(category, page.Value);
+            var categories = await _categoryService.GetCategoryListAsync();
 
             if (!productResponse.Successfull || productResponse is null) { 
-                return NotFound("Error");
+                return NotFound(productResponse?.ErrorMessage);
             }
-            ViewBag.items = productResponse.Data.Items;
 
-            return View(new List<Dish>(productResponse.Data.Items));
+            ViewData["currentCategory"] = category != "all" ? categories.Data?.Find(c => c.NormalizedName.Equals(category))?.Name : "Все";
+            ViewData["categories"] = _categoryService.GetCategoryListAsync().Result.Data;
+            ViewData["totalPages"] = productResponse.Data?.TotalPages;
+
+            return View(new ListModel<Dish> { Items = productResponse.Data!.Items, CurrentPage = 1, TotalPages = 1 });
         }
         // GET: ProductController
         
